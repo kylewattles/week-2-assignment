@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(89, 255, 216);
+}
+h1 {
+    color: goldenrod;
+}
+div {
+    background-color: cornflowerblue;
+     border-style: solid;
+      border-color: black;
+       border-radius: 5px;
+}
+
+
+
+#large-paragraph {
+    font-size: 30px;
+}
+.hov {
+    height: 20px;
+    width: 200px;
+    background-color: blue;
+}
+.hov:hover {background-color: purple;}
+
+.every-even li:nth-child(even) {
+    background-color: red;
+}
+.every-third li:nth-child(3n) {
+    background-color: red;
+}

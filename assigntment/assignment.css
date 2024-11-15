@@ -1,0 +1,61 @@
+body {
+    background-color: darkslategrey;
+}
+
+h1 {
+    text-shadow: green 1px 1px;
+}
+h2 {
+    text-shadow: green 1px 1px;
+}
+h3 {
+    text-shadow: green 1px 1px;
+}
+a {
+    text-shadow: green 1px 1px;
+}
+p {
+    color: lime;
+        background-color: blue;
+         border-style: solid;
+          border-color: black;
+           border-radius: 10px;
+     
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 30%;
+}
+.shadow-text {
+    color: teal ;
+    text-shadow: black 1px 1px 
+}
+
+#jumbotext {
+    font-size: 30pt;
+    color: green; 
+}
+.border-bubble {
+    background-color: blue;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 10px;
+}
+
+.dino-text { 
+    border-color: rgb(2, 212, 2);
+border-top-right-radius: 10px;
+border-style: dashed;
+background-color: teal
+}
+.red-levels {
+    color: red;
+}
+.yellow-levels {
+    color: yellow;
+}
+.green-levels {
+    color: rgb(0, 223, 0);
+}
